@@ -80,7 +80,7 @@ const bytebane = {
 <summary>Github Stats  <img src=https://slackmojis.com/emojis/44073-point_down/download width="30"></summary>
 <br>
 <img style="width: 50%; min-width: 30px;" align=left src= "https://git-stats-bytebane.vercel.app/api?username=bytebane&show_icons=true&theme=radical&&include_all_commits=true&&count_private=true"/>
-<img style="width: 45.5%; min-width: 30px;" align=right src= "https://git-stats-bytebane.vercel.app/api/top-langs/?username=bytebane&layout=compact&theme=radical&&count_private=true&&langs_count=10&&hide_title=true"/>
+<img style="width: 47%; min-width: 30px;" align=right src= "https://git-stats-bytebane.vercel.app/api/top-langs/?username=bytebane&layout=compact&theme=radical&&count_private=true&&langs_count=10&&hide_title=true"/>
 
 <img style="width: 100%; min-width: 50px;" src= "https://streak-stats.demolab.com/?user=ByteBane&theme=radical"/>
 </details>
