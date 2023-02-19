@@ -77,7 +77,7 @@ const bytebane = {
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 
 <details close>
-<summary>Github Stats  <img src=https://slackmojis.com/emojis/44073-point_down/download width="30"></summary>
+<summary>Github Stats  <img src=https://slackmojis.com/emojis/44073-point_down/download width="20"></summary>
 <br>
 <img style="width: 50%; min-width: 30px;" align=left src= "https://git-stats-bytebane.vercel.app/api?username=bytebane&show_icons=true&theme=radical&&include_all_commits=true&&count_private=true"/>
 <img style="width: 46%; min-width: 30px;" align=right src= "https://git-stats-bytebane.vercel.app/api/top-langs/?username=bytebane&layout=compact&theme=radical&&count_private=true&&langs_count=10&&hide_title=true"/>
