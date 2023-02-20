@@ -6,10 +6,10 @@
 
 ## **ByteBane** here btw  <img src = "https://slackmojis.com/emojis/38737-dead/download" width="30"/>
 
-- :computer: I’m a Computer Science Engineer. <img src = "https://slackmojis.com/emojis/28273-typing/download" width="30" height="25"/>
-- :iphone: A Full Stack Android Developer. <img src = "https://slackmojis.com/emojis/48669-android-dance/download" width="30" height="25"/>
-- :construction: Currently I'm developing mobile applications(Mostly android). <img src = "https://slackmojis.com/emojis/50920-android-party/download" width="30" height="25"/>
-- :octocat: Looking forward to collaborate on anything interesting. <img src = "https://slackmojis.com/emojis/3958-storm_trooper/download" width="30" height="25"/>
+- 💻 I’m a Computer Science Engineer. <img src = "https://slackmojis.com/emojis/28273-typing/download" width="30" height="25"/>
+- 📱 A Full Stack Android Developer. <img src = "https://slackmojis.com/emojis/48669-android-dance/download" width="30" height="25"/>
+- 👷‍♂️ Currently I'm developing mobile applications(Mostly android). <img src = "https://slackmojis.com/emojis/50920-android-party/download" width="30" height="25"/>
+- 🤝 Looking forward to collaborate on anything interesting. <img src = "https://slackmojis.com/emojis/3958-storm_trooper/download" width="30" height="25"/>
 
 ## <img src = "https://slackmojis.com/emojis/59692-another-one/download" width="35" height="30"/> About me &nbsp;<img src = "https://slackmojis.com/emojis/55302-java_time/download" width="35" height="30"/>
 
