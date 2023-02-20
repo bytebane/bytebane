@@ -2,16 +2,16 @@
 
 ![Banner](./assets/git-banner.gif)
 
-<h1 align=center> नमस्ते🙏🏻 Welcome to my lair in this digital realm of open source! <img src = https://slackmojis.com/emojis/6403-open_source/download width="30"> </h1>
+<h1 align=center> नमस्ते🙏🏻 Welcome to my lair in this digital realm of open source! <img src = https://slackmojis.com/emojis/6403-open_source/download width="30"/> </h1>
 
-## **ByteBane** here btw  <img src = https://slackmojis.com/emojis/38737-dead/download width="30">
+## **ByteBane** here btw  <img src = https://slackmojis.com/emojis/38737-dead/download width="30"/>
 
-- :computer: I’m a Computer Science Engineer. <img src =https://slackmojis.com/emojis/28273-typing/download width="30" height="25">
-- :iphone: A Full Stack Android Developer. <img src =https://slackmojis.com/emojis/48669-android-dance/download width="30" height="25">
-- :construction: Currently I'm developing mobile applications(Mostly android). <img src =https://slackmojis.com/emojis/50920-android-party/download width="30" height="25">
-- :octocat: Looking forward to collaborate on anything interesting. <img src =https://slackmojis.com/emojis/3958-storm_trooper/download width="30" height="25">
+- :computer: I’m a Computer Science Engineer. <img src =https://slackmojis.com/emojis/28273-typing/download width="30" height="25"/>
+- :iphone: A Full Stack Android Developer. <img src =https://slackmojis.com/emojis/48669-android-dance/download width="30" height="25"/>
+- :construction: Currently I'm developing mobile applications(Mostly android). <img src =https://slackmojis.com/emojis/50920-android-party/download width="30" height="25"/>
+- :octocat: Looking forward to collaborate on anything interesting. <img src =https://slackmojis.com/emojis/3958-storm_trooper/download width="30" height="25"/>
 
-## <img src = https://slackmojis.com/emojis/59692-another-one/download width="35" height="30"> About me &nbsp;<img src = https://slackmojis.com/emojis/55302-java_time/download width="35" height="30">
+## <img src = https://slackmojis.com/emojis/59692-another-one/download width="35" height="30"/> About me &nbsp;<img src = https://slackmojis.com/emojis/55302-java_time/download width="35" height="30"/>
 
 ```java
 import dev.android.*;
@@ -44,7 +44,7 @@ const bytebane = {
 };
 ```
 
-## 🛠 Technologies and tools I Use Frequently <img src=https://slackmojis.com/emojis/3643-cool-doge/download width="30">
+## 🛠 Technologies and tools I Use Frequently <img src=https://slackmojis.com/emojis/3643-cool-doge/download width="30"/>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)
 ![ArduinoIDE](https://img.shields.io/badge/-ArduinoIDE-00979D?style=plastic&logo=Arduino&logoColor=white)
@@ -61,7 +61,7 @@ const bytebane = {
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
 
-## 📖  What I am currently learning / improving on <img src=https://slackmojis.com/emojis/5570-confused_dog/download width="30">
+## 📖  What I am currently learning / improving on <img src=https://slackmojis.com/emojis/5570-confused_dog/download width="30"/>
 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
@@ -77,7 +77,7 @@ const bytebane = {
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 
 <details close>
-<summary><h2>Github Stats  <img src=https://slackmojis.com/emojis/44073-point_down/download width="20"></h2></summary>
+<summary><h2>Github Stats  <img src=https://slackmojis.com/emojis/44073-point_down/download width="20"/></h2></summary>
 <br>
 <img style="width: 50%; min-width: 30px;" align=left src= "https://git-stats-bytebane.vercel.app/api?username=bytebane&show_icons=true&theme=radical&&include_all_commits=true&&count_private=true"/>
 <img style="width: 45%; min-width: 30px;" align=right src= "https://git-stats-bytebane.vercel.app/api/top-langs/?username=bytebane&layout=compact&theme=radical&&count_private=true&&langs_count=10&&hide_title=true"/>
@@ -85,4 +85,4 @@ const bytebane = {
 <img style="width: 100%; min-width: 50px;" src= "https://streak-stats.demolab.com/?user=ByteBane&theme=radical"/>
 </details>
 
-![ProfileView Counter](https://komarev.com/ghpvc/?username=bytebane&style=plastic&color=blueviolet)  <img src=https://slackmojis.com/emojis/25046-wave-bye/download width="50">
+![ProfileView Counter](https://komarev.com/ghpvc/?username=bytebane&style=plastic&color=blueviolet)  <img src=https://slackmojis.com/emojis/25046-wave-bye/download width="50"/>
