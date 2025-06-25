@@ -20,22 +20,22 @@ import dev.iot.*;
 
 const bytebane = {
     pronouns: "He" | "Him",
-    code: ["Dart", "Java", "Python", "C++"],
-    askMeAbout: ["Tech", "Android App Dev", "Cross-Platform App Dev", "Internet of Things"],
+    code: ["Javascript", "Dart", "Java", "Python", "C++"],
+    askMeAbout: ["Tech", "Web Dev", "Android App Dev", "Cross-Platform App Dev", "Internet of Things"],
     technologies: {
         mobileApp: {
             android: ["Flutter", "Java"]
         },
         backEnd: {
-            databases: ["Cloud Firestore", "FirebaseRTDB", "MongoDB"],
-            tech: ["Node", "Express"]
+            databases: ["Cloud Firestore", "FirebaseRTDB", "MongoDB", "PostgreSQL", "Supabase"],
+            tech: ["Node", "Express", "Fastify"]
         },
-        devOps: ["Docker", "Nginx"],
+        devOps: ["Docker", "Nginx", "Traefik"],
         IoT S/Ws: ["C++", "Python"],
         IoT H/Ws: ["ESP8266", "ESP32", "Arduino Uno", "RaspberryPi"],
-        OS: ["Windows","Linux"],
-        IDEs: ["VS Code", "Android Studio", "Arduino IDE"],
-        misc: ["Firebase", "GCP", "GitHub", "Digital Ocean", "Heroku"]
+        OS: ["Windows","Linux", "macOS"],
+        IDEs: ["VS Code", "Cursor", "Android Studio", "Arduino IDE"],
+        misc: ["Firebase", "GCP", "GitHub", "Digital Ocean", "Vercel", "Heroku"]
     },
     architecture: ["Model-View-Controller", "Client-Server Pattern", "Layered Pattern"],
     currentFocus: ["Learn & Practise to write better Optimised Code by revisiting DSA", 
